@@ -6,8 +6,6 @@ _**Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian
 
 ### Original Developer: Andrew Littleton \(2021\)
 
-DWRL Collaborative 
-
 ### Most Recent Documentation Update: 06/15/2021
 
 ## Development Specifications:
