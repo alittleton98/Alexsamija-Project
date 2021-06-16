@@ -2,7 +2,7 @@
 
 ### Machine learning model to test interactions between devices learning separately then teaching each other to understand effectiveness of community based learning. 
 
-Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian \(Aleksandriska akademija\)
+_**Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian \(Aleksandriska akademija\)**_
 
 ### Original Developer: Andrew Littleton \(2021\)
 
