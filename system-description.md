@@ -1,10 +1,12 @@
-# System Description
+# System Description and Software Engineering
 
 There are 3 devices that take part in this experiment. 
 
 1. Student: "Rosalind Lutece". Excels at numerical concepts and operations. Struggles with complex words
 2. Student: "Robert Lutece" Excels at language, but stuggles with complex numerical operations
 3. Teacher: "GLaDOS \(Genetic Lifeform and Disk Operating System\)"
+
+Systems are given pronouns within the documentation based on the character names. Robert is "he/him/his". Rosalind and GLaDOS are "she/her/hers"
 
 ### Physical Specifications
 
