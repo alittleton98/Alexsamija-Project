@@ -6,6 +6,8 @@ _**Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian
 
 ### Original Developer: Andrew Littleton \(2021\)
 
+DWRL Collaborative 
+
 ### Most Recent Documentation Update: 06/15/2021
 
 ## Development Specifications:
@@ -14,16 +16,27 @@ _**Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian
   * SciPy Libraries
 * [R](https://www.r-project.org/) For the statistical analysis
   * dplyr
+* If desired, the branches can be kept and the experiment can be performed
+
+## Deployment Instructions 
+
+_Applies to DWRL Collaborative Learning Experiment, but can be modified for other projects_
+
+\[Development\]
 
 ## Branch Descriptions
 
+My own experiment is included in the repository but will be packaged within its own folders. The Alexsimija Project branches are the ones that will matter when forking. 
+
 ### Alexsimija Project
 
+* main: Branch to be forked from or to clone for most stable build
+* master: Documentation update. Routinely merged into main
 * teacher-dev: Non project specific development branch that the modifiable teaching model will be built in. This is the CONTROL and is meant to be replicated before being experimented on
 * student-dev: Non project specific development branch that the modifiable Learnning model will be built in. This is the CONTROL and is meant to be replicated before being experimented on
 * database-management: Handles database CRUD and local data files.
 
-### DWRL Collaborative Learning Experiment \[FORK\]
+### DWRL Collaborative Learning Experiment 
 
 * robert-dev: Development branch Robert. Updates to his learning model for experimentation will be developed here
 * rosalind-dev: Development branch Rosalind. Updates to her learning model for experimentation will be developed here
