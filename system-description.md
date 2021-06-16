@@ -26,3 +26,5 @@ Devices are locally networked for reliable communication.
 
 ## Software Deployment
 
+
+

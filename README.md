@@ -17,13 +17,13 @@ _**Etymology: Alexsimija is a portmanteua of "Alexandrian Academy" in Macedonian
 
 ## Branch Descriptions
 
-### Collaborative Learning Experiment 
+### Alexsimija Project
 
-* teacher-dev: 
-* student-dev:
+* teacher-dev: Non project specific development branch that the modifiable teaching model will be built in. This is the CONTROL and is meant to be replicated before being experimented on
+* student-dev: Non project specific development branch that the modifiable Learnning model will be built in. This is the CONTROL and is meant to be replicated before being experimented on
 * database-management: Handles database CRUD and local data files.
 
-### DWRL Collaborative Learning 
+### DWRL Collaborative Learning Experiment \[FORK\]
 
 * robert-dev: Development branch Robert. Updates to his learning model for experimentation will be developed here
 * rosalind-dev: Development branch Rosalind. Updates to her learning model for experimentation will be developed here
