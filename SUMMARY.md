@@ -2,5 +2,5 @@
 
 * [Alexsimija Project](README.md)
 * [System Description and Software Engineering](system-description.md)
-* [Experiment](experiment.md)
+* [Research Log/Development Updates](research-log-development-updates.md)
 
